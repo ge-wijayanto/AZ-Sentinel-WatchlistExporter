@@ -20,9 +20,6 @@ This script has the following key features:
 * Automatically retrieve data from the next API Link, using a loop condition. (Sentinel creates a unique API link for each of the data pages, and called in a sequential manner, instead of putting the whole data in one API)
 * Export the results in a JSON format, that could be easily reformatted and reused in other SOC environment, whether it is using Sentinel or other SIEM platforms.
 
-## Documentation Section
-To simplify repository navigations, use these buttons:
-
 ## Installation & Configurations
 To run the script, first we need to install [Azure PowerShell](https://learn.microsoft.com/en-us/powershell/azure/install-azps-windows?view=azps-11.2.0&tabs=powershell&pivots=windows-psgallery) module.
 ```ps1
