@@ -1,4 +1,4 @@
-# Azure Sentinel Watchlist Exporter
+# Azure Sentinel Watchlist Exporter (ASWE)
 
 Azure Sentinel Watchlist Exporter is a custom powershell script that was created to help the process of exporting/extracting Watchlist data from Microsoft Azure Sentinel, in a fully automated and complete manner.
 
