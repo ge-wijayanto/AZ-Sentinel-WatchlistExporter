@@ -70,3 +70,4 @@ path/to/file/ExportWL.ps1
 ```
 
 ## Result Sample
+![Result Sample](img/Sample.png)
